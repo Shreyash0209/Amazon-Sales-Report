@@ -30,3 +30,6 @@ Power BI: For data modeling, visualization, and dashboard creation.
 Microsoft Excel: For initial data cleaning and preparation.
 Conclusion
 The Power BI dashboard serves as a powerful tool for analyzing e-commerce data, transforming raw information into meaningful insights. It demonstrates how effective visualization can drive data-driven decisions in the competitive Amazon sales ecosystem.
+
+![image](https://github.com/user-attachments/assets/f17a5667-1dc5-4a6f-85f4-5845c2ebd808)
+
